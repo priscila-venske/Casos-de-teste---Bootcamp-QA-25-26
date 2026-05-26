@@ -7,15 +7,12 @@ Validar funcionalidades críticas de um sistema de e-commerce.
 
 ## Tipos de teste executados
 - Testes funcionais
-- Testes de regressão
-- Testes de interface
 - Validação de API no Postman
 
 ## Ferramentas utilizadas
 - Jira
 - Postman
 - Google Sheets
-- Android Studio
 
 ## Atividades realizadas
 - Criação de casos de teste
