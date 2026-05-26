@@ -13,6 +13,7 @@ Validar funcionalidades críticas de um sistema de e-commerce.
 - Jira
 - Postman
 - Google Sheets
+https://docs.google.com/spreadsheets/d/1qYkE2GPBQ0vR311KHQ3PpQP--jSr6gHdVcPn-zK-NO4/edit?usp=sharing
 
 ## Atividades realizadas
 - Criação de casos de teste
